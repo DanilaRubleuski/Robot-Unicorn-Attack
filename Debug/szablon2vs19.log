@@ -1,0 +1,2 @@
+﻿D:\Programms\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (szablon2vs17.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  szablon2vs19.vcxproj -> D:\College\PP\final_version\template-project-2 (1)\template-project-2\Debug\szablon2vs19.exe

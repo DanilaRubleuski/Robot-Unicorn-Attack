@@ -1,0 +1,22 @@
+﻿D:\Programms\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (szablon2vs19.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(326,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(325,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(334,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(333,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(342,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(341,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(350,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(349,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(366,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(704,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(703,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(722,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(721,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(728,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(727,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(917,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(920,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(924,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\College\PP\final_version\template-project-2 (1)\template-project-2\main.cpp(370,19): warning C4101: 'time1': unreferenced local variable
+  szablon2vs17.vcxproj -> D:\College\PP\final_version\template-project-2 (1)\template-project-2\Debug\szablon2vs17.exe
